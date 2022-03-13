@@ -1,0 +1,10 @@
+install tailwind plugin
+npm i tailwind-scrollbar-hide
+uncomment in tailwind config file
+check react date picker documentation for install and css import to header.js file
+add custom css tailwind to global css in styles folder
+install badrap dependencies
+sign up on mapbox and get ur public key and customize the theme (try follow video to get better guides)  
+## npm install react-map-gl
+add secret key to next.config file
+## npm install geolib
